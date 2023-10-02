@@ -1,0 +1,1 @@
+java -jar D:\Файли\IdeaProjects\PicReplacer\out\artifacts\PicReplacer_jar

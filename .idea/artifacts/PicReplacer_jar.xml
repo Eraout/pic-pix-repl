@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PicReplacer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PicReplacer_jar</output-path>
+    <root id="archive" name="PicReplacer.jar">
+      <element id="module-output" name="PicReplacer" />
+      <element id="dir-copy" path="$PROJECT_DIR$/out/production/PicReplacer" />
+      <element id="dir-copy" path="$PROJECT_DIR$/out" />
+    </root>
+  </artifact>
+</component>
